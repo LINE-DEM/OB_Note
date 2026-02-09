@@ -1,0 +1,6 @@
+filters:
+  and:
+    - status == "#status/今日待整理"
+views:
+  - type: table
+    name: 表格

@@ -1,0 +1,289 @@
+{
+  "main": {
+    "id": "84829802d6fc9eb2",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c5f70058dd5b197",
+        "type": "tabs",
+        "dimension": 16.594427244582043,
+        "children": [
+          {
+            "id": "38f25192a8aa27be",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "学习路径.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "学习路径 的大纲"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ad37ef575b97a03d",
+        "type": "tabs",
+        "dimension": 83.40557275541795,
+        "children": [
+          {
+            "id": "b29f19b7a7f68a90",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "学习路径.canvas",
+                "viewState": {
+                  "x": -1029.3621704103573,
+                  "y": 3075.4933770792427,
+                  "zoom": -0.6659756002343997
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-layout-dashboard",
+              "title": "学习路径"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bbdaa2b14e871ef1",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a35df4f979c4de4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4e10dc13e23fb37",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "b209b5ecb3c413d5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "bash",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "51e52081e8b5975c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 321.5
+  },
+  "right": {
+    "id": "cdb68820c2ef848f",
+    "type": "split",
+    "children": [
+      {
+        "id": "275eeff8b1cc15dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4aff446efcc70d0d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "工具/obsidian.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "obsidian 的反向链接列表"
+            }
+          },
+          {
+            "id": "1833e1d006a573de",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "工具/AI名词解释/LLM 相关技术.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "LLM 相关技术 的出链列表"
+            }
+          },
+          {
+            "id": "c980107a350519d4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "8419811031bd4bcc",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "d5f84d5393c4ae30",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "a354c1a4015ac378",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          },
+          {
+            "id": "44dd458f5d8c4bdb",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 623.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:新建数据库": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false,
+      "terminal:Open terminal": false,
+      "obsidian-importer:Open Importer": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
+    }
+  },
+  "active": "b29f19b7a7f68a90",
+  "lastOpenFiles": [
+    "知识地图/本周MOC（2月2日~8日）.md",
+    "知识地图/知识地图.md",
+    "c++/C++模板使用与实现细节.md",
+    "c++/C++到汇编视角_完整学习笔记.md",
+    "c++/虚函数内存布局.md",
+    "c++/虚函数.md",
+    "c++/前向声明.md",
+    "2A-历史工作区/1.29.md",
+    "2A-历史工作区/1.30.md",
+    "2A-历史工作区/2.2.md",
+    "2A-历史工作区/2.3.md",
+    "2A-历史工作区/2.4.md",
+    "工具/AI工具箱/提示词/Prompt-代码审查.md",
+    "工具/AI工具箱/提示词/Prompt-架构梳理.md",
+    "工具/AI工具箱/提示词/Prompt-学习底层.md",
+    "工具/AI工具箱/提示词/Prompt策略.md",
+    "工具/AI工具箱/cc-switch.md",
+    "学习路径.canvas",
+    "c++/语法/union（联合体）拆解.md",
+    "网络/WebSocket原理/知识浓缩.md",
+    "网络/WebSocket原理/详细解读/网络层次.md",
+    "网络/WebSocket原理/详细解读/网络层次-导读.md",
+    "网络/WebSocket原理/详细解读/WebSocket-分片-完全解析.md",
+    "网络/WebSocket原理/7分钟理解/WebSocket 握手（Handshake）.md",
+    "网络/WebSocket原理/7分钟理解/WebSocket-分片.md",
+    "工具/AI名词解释/LLM 相关技术.md",
+    "学习路径.md",
+    "快速数据库.base",
+    "1A-当日工作区/今日看板-2月-6日.md.tmp.253752.1770342821414",
+    "c++/语法/union（联合体）拆解.md.tmp.393044.1770277567648",
+    "1A-当日工作区/缓存友好的Claude使用实践.md.tmp.372360.1770272100757",
+    "1A-当日工作区/AI模型使用分析报告.md.tmp.380656.1770269830498",
+    "工具/Win工具/未命名.canvas",
+    "语法",
+    "c++/语法/class与struct.md.tmp.274952.1770196164441",
+    "c++/语法/前向声明.md.tmp.261180.1770189580295",
+    "c++/语法/指针.md.tmp.263124.1770189163622",
+    "pic/Pasted image 20260204143942.png",
+    "c++/语法/Struct.md.tmp.270072.1770187145429",
+    "知识地图/C++_UE_底层知识体系.canvas",
+    "pic/Pasted image 20260202150643.png",
+    "1A-当日工作区/Unity-VAD系统架构Canvas图.canvas",
+    "pic/Pasted image 20260129144729.png",
+    "pic/Pasted image 20260129144608.png",
+    "pic/Pasted image 20260119135535.png",
+    "pic/Pasted image 20260119135459.png",
+    "pic/Pasted image 20260115133740.png",
+    "pic/Pasted image 20260113102107.png",
+    "pic/Pasted image 20260113104911.png",
+    "pic/Pasted image 20260114175146.png",
+    "未命名.canvas"
+  ]
+}

@@ -1,0 +1,1 @@
+![Normal N 1Map var No A xyz sa](Exported%20image%2020260112170830-0.png)

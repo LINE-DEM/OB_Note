@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Edit",
+      "Write",
+      "Bash(node --version:*)",
+      "Bash(dir:*)",
+      "Bash(findstr:*)",
+      "Bash(find:*)",
+      "Bash(xargs -I {} sh -c 'grep -l \"\"^creation_date:\"\" {} 2>/dev/null')",
+      "Bash(tree:*)"
+    ]
+  }
+}

@@ -1,0 +1,3 @@
+![0000 100 1000 0101 0110 100 0100](Exported%20image%2020260109133010-0.png)
+
+![ROM addr Dout](Exported%20image%2020260109133012-1.png)
