@@ -1,23 +1,3 @@
----
-creation_date: 2026-02-04 13:33
-type:
-status:
-tags:
-  - typedef
-  - C语法
-  - 类型别名
-  - 函数指针
-aliases:
-  - typedef拆解
-  - 类型定义
-tech_stack:
-complexity: ⭐⭐⭐
-related_modules:
-  - 函数指针
-  - 前向声明
-  - 虚函数
----
-
 # typedef 拆解
 
 ## 核心摘要

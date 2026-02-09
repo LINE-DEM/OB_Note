@@ -20,5 +20,10 @@ ESC两次  直接回到上次对话 但是不redo
 
 claude -r 选择对话
 claude -c 恢复上次对话
-
+ ctrl+o    思考过程 
+ ctrl+e to show all
+ 
+ Alt+T 切换思考模式
+- `claude --from-pr 123` 恢复链接到特定 pull request 的会话
+- /rename unity开发对话  可以给这个对话起名   
 ## Slash命令

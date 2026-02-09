@@ -1,14 +1,3 @@
----
-creation_date: 2026-01-23 10:00
-type: "#Type/Concept"
-status: "#Status/Draft"
-tags: [编译, 实战, Parser]
-aliases: [Day 2 Parser]
-tech_stack: "#Tech/CPP"
-complexity: ⭐⭐⭐
-related_modules: [Day01_词法分析器, Day03_语义分析, 实践_手写Parser]
----
-
 # Day 2：语法分析器实现
 
 ## 目标

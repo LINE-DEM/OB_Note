@@ -1,14 +1,3 @@
----
-creation_date: 2026-02-04 17:07
-type: #Type/Concept
-status: #Status/Refactoring
-tags: [class, struct, 访问权限, public, private, 继承]
-aliases: [class和struct区别, class就是struct, class与struct]
-tech_stack: #Tech/CPP
-complexity: ⭐⭐
-related_modules: []
----
-
 ## 核心摘要
 
 C++ 中 class 和 struct **编译后完全相同**，唯一区别是**默认访问权限**：struct 默认 public，class 默认 private。这一条规律可以推出所有相关用法和易错点。

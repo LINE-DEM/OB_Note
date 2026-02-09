@@ -1,14 +1,3 @@
----
-creation_date: 2026-01-14 18:00
-type: "#Type/Concept"
-status: "#Status/Complete"
-tags: [编译, VisualStudio, 链接, DLL, 静态库]
-aliases: [VS编译流程, MSVC编译]
-tech_stack: "#Tech/CPP"
-complexity: ⭐⭐⭐⭐
-related_modules: [编译与解释代码, PE文件, UE编译]
----
-
 # Visual Studio 编译流程
 
 ## 核心摘要

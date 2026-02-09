@@ -6,7 +6,7 @@
       {
         "id": "1c5f70058dd5b197",
         "type": "tabs",
-        "dimension": 16.594427244582043,
+        "dimension": 15.64945226917058,
         "children": [
           {
             "id": "38f25192a8aa27be",
@@ -14,13 +14,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "学习路径.canvas",
+                "file": "工具/Agent/Claude/claude命令.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "学习路径 的大纲"
+              "title": "claude命令 的大纲"
             }
           }
         ]
@@ -28,7 +28,7 @@
       {
         "id": "ad37ef575b97a03d",
         "type": "tabs",
-        "dimension": 83.40557275541795,
+        "dimension": 84.35054773082942,
         "children": [
           {
             "id": "b29f19b7a7f68a90",
@@ -39,17 +39,107 @@
               "state": {
                 "file": "学习路径.canvas",
                 "viewState": {
-                  "x": -1029.3621704103573,
-                  "y": 3075.4933770792427,
-                  "zoom": -0.6659756002343997
+                  "x": -138.92738479648517,
+                  "y": 971.651061180408,
+                  "zoom": -0.9999999999999996
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "学习路径"
             }
+          },
+          {
+            "id": "7b983d52ec27ba85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "工具/Agent/Claude/claude命令.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "claude命令"
+            }
+          },
+          {
+            "id": "5746fe3ebb1a4ab3",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "快速数据库.base",
+                "viewName": "表格"
+              },
+              "icon": "lucide-table",
+              "title": "快速数据库"
+            }
+          },
+          {
+            "id": "ac9bc5b736064638",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "1A-当日工作区/每日看板.canvas",
+                "viewState": {
+                  "x": -90.25760836015007,
+                  "y": 187.1107506987434,
+                  "zoom": -0.7955352340033156
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "每日看板"
+            }
+          },
+          {
+            "id": "0c5302410e55a585",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "编译/实战与问题/编译问题排查手册.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "编译问题排查手册"
+            }
+          },
+          {
+            "id": "ba059a0d40454173",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "工具/Agent/Claude/学习资源.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "学习资源"
+            }
+          },
+          {
+            "id": "b1e14abdcbffb36a",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "1A-当日工作区/每日看板.canvas",
+                "viewState": {
+                  "x": 55.57229013466676,
+                  "y": 188.99839911539817,
+                  "zoom": -0.31426660153064473
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "每日看板"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +171,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bash",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -113,8 +203,45 @@
     "type": "split",
     "children": [
       {
+        "id": "20588bf43fb8eb8f",
+        "type": "tabs",
+        "dimension": 17.985611510791365,
+        "children": [
+          {
+            "id": "9daba779d5d18374",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OneNote/计算机图形学/水体渲染/泡沫.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "泡沫"
+            }
+          },
+          {
+            "id": "91dd87b036ee803f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OneNote/计算机图形学/OpenGL/OpenGL核心概念总结.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "OpenGL核心概念总结"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
         "id": "275eeff8b1cc15dd",
         "type": "tabs",
+        "dimension": 82.01438848920863,
         "children": [
           {
             "id": "4aff446efcc70d0d",
@@ -122,7 +249,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工具/obsidian.md",
+                "file": "工具/Agent/Claude/claude命令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +259,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "obsidian 的反向链接列表"
+              "title": "claude命令 的反向链接列表"
             }
           },
           {
@@ -141,12 +268,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工具/AI名词解释/LLM 相关技术.md",
+                "file": "工具/Agent/Claude/claude命令.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "LLM 相关技术 的出链列表"
+              "title": "claude命令 的出链列表"
             }
           },
           {
@@ -213,7 +340,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 623.5
+    "width": 599.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -232,58 +359,60 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "b29f19b7a7f68a90",
+  "active": "d5f84d5393c4ae30",
   "lastOpenFiles": [
-    "知识地图/本周MOC（2月2日~8日）.md",
-    "知识地图/知识地图.md",
-    "c++/C++模板使用与实现细节.md",
-    "c++/C++到汇编视角_完整学习笔记.md",
-    "c++/虚函数内存布局.md",
-    "c++/虚函数.md",
-    "c++/前向声明.md",
-    "2A-历史工作区/1.29.md",
-    "2A-历史工作区/1.30.md",
-    "2A-历史工作区/2.2.md",
-    "2A-历史工作区/2.3.md",
-    "2A-历史工作区/2.4.md",
-    "工具/AI工具箱/提示词/Prompt-代码审查.md",
-    "工具/AI工具箱/提示词/Prompt-架构梳理.md",
-    "工具/AI工具箱/提示词/Prompt-学习底层.md",
-    "工具/AI工具箱/提示词/Prompt策略.md",
-    "工具/AI工具箱/cc-switch.md",
+    "工具/Agent/Claude/Claude收费.md",
+    "工具/Agent/Claude/claude命令.md",
+    "工具/Agent/Claude/MCP.md",
+    "工具/Agent/Claude/OB-MCP交互流程.md",
+    "1A-当日工作区/每日看板.canvas",
+    "编译/Visual Studio 编译流程（标准格式）.md",
     "学习路径.canvas",
-    "c++/语法/union（联合体）拆解.md",
-    "网络/WebSocket原理/知识浓缩.md",
-    "网络/WebSocket原理/详细解读/网络层次.md",
-    "网络/WebSocket原理/详细解读/网络层次-导读.md",
-    "网络/WebSocket原理/详细解读/WebSocket-分片-完全解析.md",
-    "网络/WebSocket原理/7分钟理解/WebSocket 握手（Handshake）.md",
-    "网络/WebSocket原理/7分钟理解/WebSocket-分片.md",
-    "工具/AI名词解释/LLM 相关技术.md",
-    "学习路径.md",
+    "OneNote/计算机图形学/OpenGL/OpenGL核心概念总结.md",
+    "OneNote/计算机图形学/水体渲染/泡沫.md",
+    "工具/AI工具箱/cc-switch.md",
+    "工具/Agent/Claude/学习资源.md",
+    "Templates/yaml模板.md",
+    "1A-当日工作区/未命名.md",
+    "1A-当日工作区/未命名 1.md",
+    "1A-当日工作区/今日看板-2月-6日.md",
+    "Templates/每日待办-简洁版.md",
+    "工具/Linux/Bash命令.md",
+    "工具/Linux/GCC命令.md",
+    "Templates/📖 每日待办使用指南.md",
+    "Templates/AI_Refactor_Rules.md",
+    "Templates/Architect_Dashboard.md",
     "快速数据库.base",
-    "1A-当日工作区/今日看板-2月-6日.md.tmp.253752.1770342821414",
-    "c++/语法/union（联合体）拆解.md.tmp.393044.1770277567648",
-    "1A-当日工作区/缓存友好的Claude使用实践.md.tmp.372360.1770272100757",
-    "1A-当日工作区/AI模型使用分析报告.md.tmp.380656.1770269830498",
+    "编译/实战与问题/编译问题排查手册.md",
+    "提示词.md",
+    "1A-当日工作区/AI-Agent与MCP交互流程详解.md.tmp.48236.1770628119699",
+    "c++/语法/Git命令拆解.md",
+    "c++/语法/class与struct.md",
+    "c++/语法/C++ const拆解.md",
+    "c++/语法/指针.md",
+    "c++/语法/前向声明.md",
+    "1AI Agent框架层-完整教程/Claude Code工具详解-MultiEdit-NotebookEdit-TodoRead.md.tmp.31236.1770616575161",
+    "1AI Agent框架层-完整教程",
+    "1A-当日工作区/MCP调用流程详解-Git与GitHub.md.tmp.46216.1770615732288",
+    "知识地图/本周MOC-方案对比.canvas",
+    "知识地图/本周MOC.canvas",
+    "1A-当日工作区/MCP配置指南-Git集成实践.md.tmp.61860.1770614352777",
+    "知识地图/本周MOC-方案对比.canvas.tmp.40280.1770613248091",
+    "知识地图/本周MOC.canvas.tmp.65868.1770612979988",
+    "pic/Pasted image 20260209111920.png",
+    "pic/Pasted image 20260209111728.png",
+    "pic/Pasted image 20260209111601.png",
+    "pic/Pasted image 20260209110454.png",
+    "健康",
+    "c++/语法/Git命令拆解.md.tmp.34928.1770605591822",
     "工具/Win工具/未命名.canvas",
-    "语法",
-    "c++/语法/class与struct.md.tmp.274952.1770196164441",
-    "c++/语法/前向声明.md.tmp.261180.1770189580295",
-    "c++/语法/指针.md.tmp.263124.1770189163622",
     "pic/Pasted image 20260204143942.png",
-    "c++/语法/Struct.md.tmp.270072.1770187145429",
     "知识地图/C++_UE_底层知识体系.canvas",
     "pic/Pasted image 20260202150643.png",
     "1A-当日工作区/Unity-VAD系统架构Canvas图.canvas",
     "pic/Pasted image 20260129144729.png",
     "pic/Pasted image 20260129144608.png",
     "pic/Pasted image 20260119135535.png",
-    "pic/Pasted image 20260119135459.png",
-    "pic/Pasted image 20260115133740.png",
-    "pic/Pasted image 20260113102107.png",
-    "pic/Pasted image 20260113104911.png",
-    "pic/Pasted image 20260114175146.png",
-    "未命名.canvas"
+    "pic/Pasted image 20260119135459.png"
   ]
 }

@@ -1,14 +1,3 @@
----
-creation_date: 2026-01-23 10:00
-type: "#Type/Concept"
-status: "#Status/Draft"
-tags: [编译, 实战, 链接, 测试]
-aliases: [Day 5 Link and Test]
-tech_stack: "#Tech/CPP"
-complexity: ⭐⭐⭐
-related_modules: [Day04_代码生成, 项目概述, 链接概述]
----
-
 # Day 5：链接与测试
 
 ## 目标

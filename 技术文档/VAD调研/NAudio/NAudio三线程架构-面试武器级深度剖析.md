@@ -1,13 +1,3 @@
----
-creation_date: 2026-02-02 13:35
-type: #Type/Interview #Type/Architecture
-status: #Status/Active
-tags: [NAudio, 多线程, WASAPI, 操作系统, 面试准备, 架构设计, 性能优化]
-tech_stack: #Tech/CSharp #Tech/Windows #Tech/System
-complexity: ⭐⭐⭐⭐⭐
-purpose: 面试深度展示技术能力
----
-
 # NAudio三线程架构 - 面试武器级深度剖析
 
 > **核心目标**：在面试中**有理有据**地阐述NAudio的技术优势，从底层原理到架构设计，展示**系统级思维能力**和**底层技术理解**。

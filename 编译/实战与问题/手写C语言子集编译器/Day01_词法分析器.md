@@ -1,14 +1,3 @@
----
-creation_date: 2026-01-23 10:00
-type: "#Type/Concept"
-status: "#Status/Draft"
-tags: [编译, 实战, Lexer]
-aliases: [Day 1 Lexer]
-tech_stack: "#Tech/CPP"
-complexity: ⭐⭐⭐
-related_modules: [项目概述, Day02_语法分析器, 实践_手写Lexer]
----
-
 # Day 1：词法分析器实现
 
 ## 目标

@@ -1,14 +1,3 @@
----
-creation_date: 2026-01-23 10:00
-type: "#Type/Concept"
-status: "#Status/Draft"
-tags: [编译, 实战, 语义分析]
-aliases: [Day 3 Semantic]
-tech_stack: "#Tech/CPP"
-complexity: ⭐⭐⭐
-related_modules: [Day02_语法分析器, Day04_代码生成, 语义分析]
----
-
 # Day 3：语义分析实现
 
 ## 目标

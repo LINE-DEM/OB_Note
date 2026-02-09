@@ -1,14 +1,3 @@
----
-creation_date: 2026-02-04 14:36
-type: #Type/Concept
-status: #Status/Refactoring
-tags: [struct, 结构体, 内存布局, 初始化, C语言]
-aliases: [结构体, structure, 结构]
-tech_stack: #Tech/CPP
-complexity: ⭐⭐⭐
-related_modules: []
----
-
 ## 核心摘要
 
 struct 是**内存布局的蓝图**：定义成员的类型和顺序，编译器据此分配一个连续的内存块。声明公式固定，所有变体都是围绕"如何声明"和"如何初始化"的微调。

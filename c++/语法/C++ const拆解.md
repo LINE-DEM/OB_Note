@@ -1,14 +1,3 @@
----
-creation_date: 2026-02-04 17:36
-type: #Type/Concept
-status: #Status/Refactoring
-tags: [const, 常量限定, 指针, 成员函数, C++基础]
-aliases: [const限定符, 常量修饰符, const修饰]
-tech_stack: #Tech/CPP
-complexity: ⭐⭐⭐
-related_modules: []
----
-
 ## 核心摘要
 
 `const` 的本质规律是一个：**它修饰的是"离它最近的类型"——默认看左边，左边没有东西就看右边。**

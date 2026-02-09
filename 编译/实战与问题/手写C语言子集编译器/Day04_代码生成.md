@@ -1,14 +1,3 @@
----
-creation_date: 2026-01-23 10:00
-type: "#Type/Concept"
-status: "#Status/Draft"
-tags: [编译, 实战, 代码生成, x64]
-aliases: [Day 4 CodeGen]
-tech_stack: "#Tech/CPP"
-complexity: ⭐⭐⭐⭐
-related_modules: [Day03_语义分析, Day05_链接与测试, 代码生成]
----
-
 # Day 4：代码生成实现
 
 ## 目标

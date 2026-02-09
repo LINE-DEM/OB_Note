@@ -1,14 +1,3 @@
----
-creation_date: 2026-01-15 19:00
-type: #Type/Concept
-status: #Status/Active
-tags: [C++, Assembly, 汇编, 底层原理, 内存布局]
-aliases: [C++汇编, 从C++到汇编]
-tech_stack: #Tech/CPP #Tech/Assembly
-complexity: ⭐⭐⭐⭐⭐
-related_modules: [编译流程, PE文件, 虚函数, 内存管理]
----
-
 # C++ 到汇编视角：从高级语言到机器指令的完整映射
 
 ## 核心摘要

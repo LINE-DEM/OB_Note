@@ -1,12 +1,3 @@
----
-creation_date: 2026-02-02 10:40
-type: #Type/Architecture
-status: #Status/Active
-tags: [Unity, NAudio, VAD, 语音检测, ONNX, 多线程, 音频处理]
-tech_stack: #Tech/Unity #Tech/CSharp
-complexity: ⭐⭐⭐⭐
----
-
 # NAudio与SileroVAD语音检测工作流程
 
 ## 核心摘要

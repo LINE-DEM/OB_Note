@@ -1,12 +1,3 @@
----
-creation_date: 2026-02-02 13:44
-type: #Type/Concept
-status: #Status/Active
-tags: [无锁编程, CAS, 并发, 线程同步, 原子操作, 内存序, ConcurrentQueue]
-tech_stack: #Tech/CSharp #Tech/CPP #Tech/System
-complexity: ⭐⭐⭐⭐⭐
----
-
 # 无锁队列深度剖析 - CAS原子操作与内存序
 
 ## 核心摘要

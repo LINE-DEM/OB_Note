@@ -1,12 +1,3 @@
----
-creation_date: 2026-02-02 10:56
-type: #Type/Architecture
-status: #Status/Active
-tags: [Unity, NAudio, 音频采集, 多线程, WASAPI, 性能优化, 事件驱动]
-tech_stack: #Tech/Unity #Tech/CSharp #Tech/System
-complexity: ⭐⭐⭐⭐⭐
----
-
 # 为什么Unity必须使用NAudio-线程架构深度剖析
 
 ## 核心摘要

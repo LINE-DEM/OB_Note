@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"9e8dd174b1003fc6","type":"text","text":"# Day02\n[[1AI Agent框架层-完整教程]]\n[[2LLM底层机制-完整教程]]\n[[Claude-Code-配置目录详解]]\n\n\ntodo：\n - [ ] 笔记删除\n - [ ] 看还没看完的\n - [ ] Git仓库创建 ","x":21,"y":-394,"width":426,"height":294},
+		{"id":"3312ad00b6ce601e","type":"text","text":"2月5日","x":-790,"y":-454,"width":120,"height":60},
+		{"id":"4ba7e93b21f22176","type":"text","text":"[[Make命令]]","x":314,"y":-498,"width":133,"height":50},
+		{"id":"50900fbc8c667a46","type":"text","text":"[[GCC命令]]","x":504,"y":-503,"width":116,"height":60},
+		{"id":"dd6bcd8e1c0e8907","type":"text","text":"[[案例-c语法]]","x":422,"y":-804,"width":140,"height":60},
+		{"id":"75b08a5bc45fbdcd","type":"text","text":"# 解决方案\n1.快速学习 agent+llm 原理\n2.看claude code中文文档 + craft文档\n3.理解claude文件和配置\n","x":-350,"y":-363,"width":340,"height":139},
+		{"id":"c154219eced7a2b7","type":"text","text":"# 基础问题\n1.claude使用了api形式 发现还是多次调用\n2.skill或者提示词会影响大模型 的输出质量","x":-790,"y":-373,"width":420,"height":159},
+		{"id":"7e3a859a10730b3e","type":"text","text":"2月6日","x":-790,"y":-14,"width":120,"height":60},
+		{"id":"75bb00f2ebd46bc9","type":"text","text":"# 基础问题\n","x":-790,"y":65,"width":420,"height":159},
+		{"id":"41f506ff1e74bece","type":"text","text":"2月9日","x":-790,"y":425,"width":120,"height":60},
+		{"id":"ac21e60c6e433287","type":"text","text":"# 基础问题\n","x":-790,"y":504,"width":420,"height":159},
+		{"id":"79a0e64225496c25","type":"text","text":"# Day04\n安装git笔记仓库 优化 [[Git]]\n安装OB MCP\n优化skill为中文\n添加归档Skill\ntodo：\n[[union（联合体）拆解]]\n[[C++ const拆解]]\n[[Git命令拆解]]\n - [ ] 笔记删除\n - [ ] 看还没看完的\n - [x] Git仓库创建 \n - [x] 学习claude","x":21,"y":455,"width":426,"height":360},
+		{"id":"1a51e7f96e99042b","type":"text","text":"2月4日","x":-790,"y":-815,"width":120,"height":60},
+		{"id":"7debccc23c16fcb4","type":"text","text":"# 基础问题\n1.c++语法 我发现 无法快速理解别人正在写的项目\n阻断太多 导致学习没有心力思考架构\n\n2.学习的时候无法建立连接 \n\n2.Bash语法\n3.GCC语法\n4.Make语法","x":-790,"y":-735,"width":420,"height":220},
+		{"id":"e4a0233bb5b0081e","type":"text","text":"# 解决方案\n1.遇到c++语法不知道 直接学习 然后整理为自己的笔记\n2.第一次学习 纯学习\n第二次看的时候 尝试中型知识连接 比如c++整个目录的内部消化连接\n2.Git 总结今日变更+晚上复习","x":-350,"y":-744,"width":340,"height":239},
+		{"id":"8b20e4239a85f20b","type":"text","text":"# Day01\n","x":34,"y":-704,"width":250,"height":160},
+		{"id":"3b21f195ab7f91dc","type":"text","text":"[[Bash命令]]","x":674,"y":-503,"width":116,"height":60},
+		{"id":"699c604858b23629","type":"text","text":"# Day03\n[[Prompt策略]] \n[[union（联合体）拆解]]\n[[C++ const拆解]]\n[[cc-switch]]\n\ntodo：\n[[union（联合体）拆解]]\n[[C++ const拆解]]\n - [ ] 笔记删除\n - [ ] 看还没看完的\n - [ ] Git仓库创建 \n - [ ] 学习claude","x":21,"y":-36,"width":426,"height":376},
+		{"id":"d05cf1fd4b141441","type":"text","text":"[[OB-MCP交互流程]]","x":510,"y":480,"width":340,"height":100}
+	],
+	"edges":[
+		{"id":"954c9d20d1a7eb40","fromNode":"4ba7e93b21f22176","fromSide":"right","toNode":"50900fbc8c667a46","toSide":"left"},
+		{"id":"1a63e394c417c461","fromNode":"8b20e4239a85f20b","fromSide":"bottom","toNode":"4ba7e93b21f22176","toSide":"left"},
+		{"id":"7e53db5b559c89ff","fromNode":"50900fbc8c667a46","fromSide":"right","toNode":"3b21f195ab7f91dc","toSide":"left"},
+		{"id":"0c871022d146fc35","fromNode":"8b20e4239a85f20b","fromSide":"top","toNode":"dd6bcd8e1c0e8907","toSide":"left"}
+	]
+}

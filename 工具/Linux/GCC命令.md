@@ -1,16 +1,3 @@
----
-creation_date: 2026-02-04 13:48
-type: #Type/Concept
-status: #Status/Complete
-tags: [GCC, 编译, 工具链, 命令行, 入门, MinGW]
-aliases: [GCC入门, GCC基础, GNU编译器, gcc命令]
-tech_stack: #Tech/CPP #Tech/System
-complexity: ⭐⭐
-related_modules: [编译与解释代码, 多文件编译与链接, Make入门]
----
-
-
-
 ## 核心摘要
 
 GCC 是 GNU 开放源代码编译器套件，通过 `gcc` 命令将 C/C++ 源代码经**预处理→编译→汇编→链接**四个阶段转化为可执行文件，是学习编译底层原理的最佳工具。

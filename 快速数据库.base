@@ -1,6 +1,10 @@
 filters:
   and:
-    - status == "#status/今日待整理"
+    - "!type.isEmpty()"
 views:
   - type: table
     name: 表格
+    order:
+      - file.name
+      - complexity
+      - aliases

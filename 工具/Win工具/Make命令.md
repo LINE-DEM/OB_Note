@@ -1,18 +1,3 @@
----
-creation_date: 2026-02-03 10:52
-type:
-status: "#status/今日待整理"
-tags:
-  - Make
-  - Makefile
-  - GCC
-  - 编译原理
-  - 构建工具
-  - MSYS2
-tech_stack:
-complexity: ⭐⭐
----
-
 ## 核心摘要
 
 以个人项目 `Compale` 为案例，从零解析 Makefile 语法、Make 执行流程和 GCC 编译指令，并梳理了 Windows 上搭建 Make 环境的步骤（MSYS2）。

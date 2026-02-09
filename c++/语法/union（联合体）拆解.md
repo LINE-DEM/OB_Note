@@ -1,14 +1,3 @@
----
-creation_date: 2026-02-05 15:44
-type: #Type/Concept
-status: #Status/Refactoring
-tags: [union, 联合体, 内存复用, C, C++, 类型转换]
-aliases: [联合体, 联合, union 拆解]
-tech_stack: #Tech/CPP
-complexity: ⭐⭐⭐
-related_modules: []
----
-
 ## 核心摘要
 
 > **union 的本质：多个变量共享同一块内存，大小由最大的成员决定，写入任何一个成员都会覆盖其余所有成员。**
