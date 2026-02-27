@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "1c5f70058dd5b197",
+        "id": "c27b59f284fa0f66",
         "type": "tabs",
-        "dimension": 25.743162901307965,
+        "dimension": 27.035330261136714,
         "children": [
           {
-            "id": "38f25192a8aa27be",
+            "id": "20dfcbdde7ee57e8",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -28,7 +28,7 @@
       {
         "id": "ad37ef575b97a03d",
         "type": "tabs",
-        "dimension": 74.25683709869203,
+        "dimension": 72.96466973886328,
         "children": [
           {
             "id": "b29f19b7a7f68a90",
@@ -50,78 +50,6 @@
             }
           },
           {
-            "id": "7b983d52ec27ba85",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "技术文档/VAD调研/NAudio/NAudio三线程架构-面试武器级深度剖析.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "NAudio三线程架构-面试武器级深度剖析"
-            }
-          },
-          {
-            "id": "5746fe3ebb1a4ab3",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "快速数据库.base",
-                "viewName": "表格"
-              },
-              "icon": "lucide-table",
-              "title": "快速数据库"
-            }
-          },
-          {
-            "id": "ac9bc5b736064638",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "1A-当日工作区/每日看板.canvas",
-                "viewState": {
-                  "x": -90.25760836015007,
-                  "y": 187.1107506987434,
-                  "zoom": -0.7955352340033156
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "每日看板"
-            }
-          },
-          {
-            "id": "0c5302410e55a585",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "编译/实战与问题/编译问题排查手册.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "编译问题排查手册"
-            }
-          },
-          {
-            "id": "ba059a0d40454173",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "工具/Agent/Claude/学习资源.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "学习资源"
-            }
-          },
-          {
             "id": "b1e14abdcbffb36a",
             "type": "leaf",
             "state": {
@@ -129,40 +57,9 @@
               "state": {
                 "file": "1A-当日工作区/每日看板.canvas",
                 "viewState": {
-                  "x": 55.57229013466676,
-                  "y": 188.99839911539817,
-                  "zoom": -0.31426660153064473
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "每日看板"
-            }
-          },
-          {
-            "id": "a7f9b81035113854",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "技术文档/重构/MainUIForm 重构指南.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MainUIForm 重构指南"
-            }
-          },
-          {
-            "id": "ada83affc820f723",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "1A-当日工作区/每日看板.canvas",
-                "viewState": {
-                  "x": 193.63413358239808,
-                  "y": 863.6974478832243,
-                  "zoom": -0.18489933939272846
+                  "x": 30,
+                  "y": 252.5,
+                  "zoom": -1.1848993393927283
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -170,7 +67,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -227,7 +124,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5
+    "width": 379.5
   },
   "right": {
     "id": "cdb68820c2ef848f",
@@ -361,8 +258,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5,
-    "collapsed": true
+    "width": 501.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -381,59 +277,62 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "ada83affc820f723",
+  "active": "b1e14abdcbffb36a",
   "lastOpenFiles": [
-    "学习路径.canvas",
-    "技术文档/重构/MainUIForm 重构指南.md",
+    "1A-当日工作区/导览模块交互流程图.md",
+    "技术文档/一体机项目/CODE_REVIEW_GUIDE.md",
+    "技术文档/一体机项目/ARCHITECTURE_REVIEW.md",
+    "技术文档/一体机项目/03-模块速查.md",
+    "技术文档/一体机项目/02-核心链路.md",
+    "技术文档/一体机项目/01-架构与分层.md",
+    "技术文档/一体机项目/00-项目总览.md",
+    "技术文档/一体机项目/04-已知坑点.md",
     "1A-当日工作区/每日看板.canvas",
-    "技术文档/VAD调研/VAD-ASR 长对话系统.md",
-    "技术文档/重构/设计模式反面教材.md",
-    "技术文档/重构/重构对话.md",
-    "技术文档/重构/todo.md",
-    "设计模式/单例+上帝类.md",
-    "设计模式/策略+桥接.md",
-    "设计模式/综合案例--封装Playable API.md",
-    "设计模式/细节.md",
-    "设计模式/工厂+建造.md",
-    "技术文档/重构",
-    "工具/Agent/Claude/学习资源.md",
-    "工具/Agent/Claude/Claude-Code-配置目录详解.md",
-    "工具/Agent/Claude/claude命令.md",
-    "工具/Agent/Claude/Claude收费.md",
-    "工具/Agent/Claude/MCP.md",
-    "工具/Agent/Claude/OB-MCP交互流程.md",
-    "网络/WebSocket原理/详细解读/网络层次.md",
-    "网络/WebSocket原理/详细解读/网络层次-导读.md",
-    "网络/WebSocket原理/详细解读/WebSocket-分片-完全解析.md",
-    "网络/WebSocket原理/知识浓缩.md",
-    "网络/网络名词.md",
-    "技术文档/VAD调研/VAD方案.md",
-    "技术文档/VAD调研/ONNX库.md",
+    "1A-当日工作区/一体机重构.excalidraw.md",
+    "1A-当日工作区/项目中的优秀设计案例.md",
+    "1A-当日工作区/重构第一章核心思想与技巧速查.md",
+    "1A-当日工作区/AutoExiter时序图.md",
+    "1A-当日工作区/NetWorkGuide-WebSocket交互流程图.md",
+    "1A-当日工作区/YiTiJi_Move项目架构CodeReview.md",
+    "1A-当日工作区/README.md",
     "技术文档/VAD调研/AudioBufferManager.md",
-    "技术文档/VAD调研/NAudio/NAudio三线程架构-面试武器级深度剖析.md",
+    "未命名.base",
+    "技术文档/一体机项目",
+    "c++/c++汇编/Const.md",
+    "c++/c++汇编/Const 1.md",
+    "c++/c++汇编/Bool.md",
+    "c++/c++汇编/指针.md",
+    "c++/c++汇编/浮点.md",
+    "c++/语法/UniTask异步编程与取消机制.md",
+    "c++/语法/union（联合体）拆解.md",
+    "c++/语法/typedef拆解.md",
+    "c++/语法/C++ const拆解.md",
+    "学习路径.canvas",
+    "1A-当日工作区/qipao",
+    "pic/Pasted Image 20260226153008_460.png",
+    "Book/重构",
+    "1A-当日工作区/NetWorkGuide-WebSocket交互.canvas",
+    "1A-当日工作区/YiTiJi_Move架构图.canvas",
+    "1A-当日工作区/YiTiJi分层架构图.canvas",
+    "pic/Exported image 20260109183034-0.png",
+    "pic/Exported image 20260112170559-1.png",
+    "pic/Exported image 20260109132857-6.png",
+    "pic/Exported image 20260109132845-3.png",
+    "pic/Exported image 20260109132812-3.png",
+    "pic/Exported image 20260109132752-0.png",
+    "1A-当日工作区/导览模块-UI播放流程.canvas",
+    "1A-当日工作区/导览模块架构图.canvas",
+    "1A-当日工作区/导览模块-退出流程.canvas",
+    "1A-当日工作区/导览模块-状态机.canvas",
     "快速数据库.base",
-    "1A-当日工作区/AI-Agent与MCP交互流程详解.md.tmp.48236.1770628119699",
-    "1AI Agent框架层-完整教程/Claude Code工具详解-MultiEdit-NotebookEdit-TodoRead.md.tmp.31236.1770616575161",
-    "1AI Agent框架层-完整教程",
-    "1A-当日工作区/MCP调用流程详解-Git与GitHub.md.tmp.46216.1770615732288",
-    "知识地图/本周MOC-方案对比.canvas",
-    "知识地图/本周MOC.canvas",
-    "1A-当日工作区/MCP配置指南-Git集成实践.md.tmp.61860.1770614352777",
-    "知识地图/本周MOC-方案对比.canvas.tmp.40280.1770613248091",
-    "知识地图/本周MOC.canvas.tmp.65868.1770612979988",
-    "pic/Pasted image 20260209111920.png",
-    "pic/Pasted image 20260209111728.png",
-    "pic/Pasted image 20260209111601.png",
-    "pic/Pasted image 20260209110454.png",
-    "健康",
-    "工具/Win工具/未命名.canvas",
-    "pic/Pasted image 20260204143942.png",
-    "知识地图/C++_UE_底层知识体系.canvas",
-    "pic/Pasted image 20260202150643.png",
-    "1A-当日工作区/Unity-VAD系统架构Canvas图.canvas",
-    "pic/Pasted image 20260129144729.png",
-    "pic/Pasted image 20260129144608.png",
-    "pic/Pasted image 20260119135535.png",
-    "pic/Pasted image 20260119135459.png"
+    "pic/Pasted Image 20260225094536_737.png",
+    "c++/语法/UniTask异步编程与取消机制.md.tmp.6936.1771916519821",
+    "pic/Pasted Image 20260224144305_785.png",
+    "1A-当日工作区/一体机重构.canvas",
+    "1A-当日工作区/一体机重构.canvas.tmp.49808.1771914452543",
+    "pic/Pasted Image 20260224141647_972.png",
+    "1A-当日工作区/YiTiJi分层架构图.canvas.tmp.102408.1771380333566",
+    "1A-当日工作区/YiTiJi分层架构设计.md.tmp.102408.1771380285535",
+    "1A-当日工作区/NetWorkGuide-WebSocket交互.canvas.tmp.108312.1771380018634"
   ]
 }

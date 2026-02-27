@@ -19,7 +19,7 @@
 		{"id":"699c604858b23629","type":"text","text":"# Day03\n[[Prompt策略]] \n[[union（联合体）拆解]]\n[[C++ const拆解]]\n[[cc-switch]]\n\ntodo：\n[[union（联合体）拆解]]\n[[C++ const拆解]]\n - [ ] 笔记删除\n - [ ] 看还没看完的\n - [ ] Git仓库创建 \n - [ ] 学习claude","x":21,"y":-36,"width":426,"height":376},
 		{"id":"d05cf1fd4b141441","type":"text","text":"","x":510,"y":480,"width":340,"height":100},
 		{"id":"79a0e64225496c25","type":"text","text":"# Day04\n已完成：\n安装git笔记仓库 优化 [[Git]]\n安装OB MCP\n优化skill为中文\n添加归档Skill\n\ntodo：\n[[union（联合体）拆解]]\n[[C++ const拆解]]\n[[Git命令拆解]]\n[[OB-MCP交互流程]]\n - [ ] 笔记删除\n - [ ] 看还没看完的\n - [x] Git仓库创建 \n - [x] 学习claude","x":21,"y":400,"width":426,"height":460},
-		{"id":"809c2c043b65e07b","type":"text","text":"# 今日新增笔记 (2026-02-11)\n\n[[VAD-ASR 长对话系统]] (复习: 0次)\n[[MainUIForm 重构指南]] (复习: 0次)\n[[todo]] (复习: 0次)\n[[设计模式反面教材]] (复习: 0次)\n[[重构对话]] (复习: 0次)\n[[网络名词]] (复习: 0次)","x":21,"y":920,"width":350,"height":400}
+		{"id":"809c2c043b65e07b","type":"text","text":"# 今日新增笔记 (2026-02-11)\n\n[[VAD-ASR 长对话系统]] (复习: 0次)\n[[MainUIForm 重构指南]] (复习: 0次)\n[[Book/重构 1/todo]] (复习: 0次)\n[[设计模式反面教材]] (复习: 0次)\n[[重构对话]] (复习: 0次)\n[[网络名词]] (复习: 0次)","x":21,"y":920,"width":350,"height":400}
 	],
 	"edges":[
 		{"id":"954c9d20d1a7eb40","fromNode":"4ba7e93b21f22176","fromSide":"right","toNode":"50900fbc8c667a46","toSide":"left"},
